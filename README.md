@@ -1,4 +1,3 @@
-![Screenshot 2025-06-10 145322](https://github.com/user-attachments/assets/9df59e7c-8b28-4543-93a7-5110083b74ac)![Screenshot 2025-06-10 145322](https://github.com/user-attachments/assets/a68992fc-f8bf-4dce-bb06-2976b480687a)![Screenshot 2025-06-10 145322](https://github.com/user-attachments/assets/1731532b-dc2b-415d-b4b7-cafd1060edc8)
 # api service sederhana php
 project uas ini adalah project REST API sederhana yang bisa dipakai untuk ngelola data user. Fungsinya mulai dari lihat semua user, nambahin user baru, update data user pakai ID, sampai hapus user juga bisa.
 
